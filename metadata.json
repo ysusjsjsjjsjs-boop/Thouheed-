@@ -1,0 +1,6 @@
+{
+  "name": "HVAC Service",
+  "description": "Professional HVAC service booking, complaint management, real-time technician tracking, and automated invoicing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
